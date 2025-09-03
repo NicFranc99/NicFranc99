@@ -1,30 +1,31 @@
 
-# 👋 Hi, I'm Nicola FRANCAVILLA
+### 👋 Hi, I'm Nicola FRANCAVILLA
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and building innovative solutions.
+Welcome to my GitHub profile! I'm a curious and passionate software developer, always ready to take on new challenges.
 
----
 
-## 🚀 GitHub Stats & Contributions
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfrancavilla&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfrancavilla&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfrancavilla&theme=radical)
+I'm an IT consultant with a deep passion for programming — and even more for technology. I love diving into new projects that challenge me to explore, learn, and innovate.
 
----
+In this repository, you'll find a selection of my personal projects, each one born from curiosity and the desire to experiment with new ideas and technologies. These projects have helped me turn concepts into working solutions and expand my technical skills.
 
-## 🛠️ Technologies & Languages
+I hope you enjoy browsing through them — especially if you're as passionate about tech as I am!
 
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Languages and Tools:
+
+<img title="Visual Studio" align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" style="padding-right:15px;" />
+<img align="left" title=".NET" alt=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:15px;" />
+<img align="left" title="Azure" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="padding-right:15px;" />
+<img align="left" title="HTML 5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:15px;"/>
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:15px;"/>
+<img align="left" alt="JavaScript" title="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:15px;"/>
+<img align="left" alt="SQL" title="Sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:15px;"/>
+<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"style="padding-right:15px;" />
+<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="padding-right:15px;"/>
+
+<br />
+<br />
 
 ---
 
@@ -37,27 +38,19 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 Here are some of my highlighted repositories:
 
 - 🔗 [Project 1](https://github.com/nfrancavilla/project1)
 - 🔗 [Project 2](https://github.com/nfrancavilla/project2)
-- 🔗 [Project 3](https://github.com/nfrancavilla/project3)
-
----
-
-## 🕒 Contribution Timeline
-
-[![Nicola's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nfrancavilla&theme=react-dark)](https://github.com/nfrancavilla)
+- 🔗 [Project 3](https://github.com/nfrancavilla/project3) -->
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicola-francavilla)
-- 🐦 [Twitter](https://twitter.com/nfrancavilla)
-- 🌐 [Portfolio Website](https://nfrancavilla.dev)
+- <img align="left" alt="Visual Studio" width="20px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /> [LinkedIn](https://www.linkedin.com/in/nicola-francavilla)
 
 ---
 
