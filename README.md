@@ -29,25 +29,6 @@ I hope you enjoy browsing through them — especially if you're as passionate ab
 
 ---
 
-## 📊 GitHub Profile Summary
-
-- 🧑‍💻 Total Commits: ![Commits](https://img.shields.io/github/commit-activity/y/nfrancavilla?style=flat-square)
-- 🔧 Pull Requests: ![Pull Requests](https://img.shields.io/github/issues-pr/nfrancavilla?style=flat-square)
-- 📁 Public Repositories: ![Repos](https://img.shields.io/github/repos/nfrancavilla?style=flat-square)
-- 🌍 Contributions: ![Contributions](https://img.shields.io/github/contributions/nfrancavilla?style=flat-square)
-
----
-
-<!-- ## 📌 Featured Projects
-
-Here are some of my highlighted repositories:
-
-- 🔗 [Project 1](https://github.com/nfrancavilla/project1)
-- 🔗 [Project 2](https://github.com/nfrancavilla/project2)
-- 🔗 [Project 3](https://github.com/nfrancavilla/project3) -->
-
----
-
 ## 📫 Connect with Me
 
 - <img align="left" alt="Visual Studio" width="20px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /> [LinkedIn](https://www.linkedin.com/in/nicola-francavilla)
