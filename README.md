@@ -1,61 +1,79 @@
 
-# 👋 Hi, I'm Nicola FRANCAVILLA
+### Hi there, I'm Nicola FRANCAVILLA 👋 💻
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and building innovative solutions.
-
----
-
-## 🚀 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfrancavilla&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfrancavilla&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfrancavilla&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/NicFranc99?label=GitHub%20Followers&style=for-the-badge)](https://github.com/NicFranc99)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicFranc99&show_icons=true&hide_border=true&count_private=true)](https://github.com/NicFranc99)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=NicFranc99&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🛠️ Technologies & Languages
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I'm a passionate Software Engineer and Open Source Contributor based in Italy 🇮🇹. I specialize in backend development, cloud-native applications, and DevOps automation. I love sharing knowledge through code, live streams, and community events. I'm constantly exploring new technologies and contributing to meaningful projects.
 
 ---
 
-## 📊 GitHub Profile Summary
+### 🌐 Connect with me
 
-- 🧑‍💻 Total Commits: ![Commits](https://img.shields.io/github/commit-activity/y/nfrancavilla?style=flat-square)
-- 🔧 Pull Requests: ![Pull Requests](https://img.shields.io/github/issues-pr/nfrancavilla?style=flat-square)
-- 📁 Public Repositories: ![Repos](https://img.shields.io/github/repos/nfrancavilla?style=flat-square)
-- 🌍 Contributions: ![Contributions](https://img.shields.io/github/contributions/nfrancavilla?style=flat-square)
-
----
-
-## 📌 Featured Projects
-
-Here are some of my highlighted repositories:
-
-- 🔗 [Project 1](https://github.com/nfrancavilla/project1)
-- 🔗 [Project 2](https://github.com/nfrancavilla/project2)
-- 🔗 [Project 3](https://github.com/nfrancavilla/project3)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />](https://github.com/NicFranc99)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://linkedin.com/in/nicfranc99)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />](https://x.com/NicFranc99)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />](https://youtube.com/@NicFranc99)
+<br/>
 
 ---
 
-## 🕒 Contribution Timeline
+### 🛠️ Languages and Tools
 
-[![Nicola's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nfrancavilla&theme=react-dark)](https://github.com/nfrancavilla)
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+<img align="left" alt="GitHub Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" />
+<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<br/><br/>
 
 ---
 
-## 📫 Connect with Me
+### 📅 Project Timeline
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicola-francavilla)
-- 🐦 [Twitter](https://twitter.com/nfrancavilla)
-- 🌐 [Portfolio Website](https://nfrancavilla.dev)
+- **2023** – [SmartHome API](https://github.com/NicFranc99/SmartHomeAPI): RESTful API for IoT devices.
+- **2024** – [DevOps Dashboard](https://github.com/NicFranc99/DevOpsDashboard): CI/CD monitoring tool with GitHub Actions.
+- **2025** – [AI Assistant](https://github.com/NicFranc99/AIAssistant): Chatbot powered by LLMs and vector search.
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+### 📺 Latest YouTube Videos
 
+<!-- YOUTUBE:START -->
+- [Live Coding: Automating GitHub with Actions](https://www.youtube.com/watch?v=example1)
+- [Building a REST API with FastAPI](https://www.youtube.com/watch?v=example2)
+- [Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=example3)
+<!-- YOUTUBE:END -->
+
+➡️ [More videos...](https://youtube.com/@NicFranc99)
+
+---
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#42](https://github.com/NicFranc99/SmartHomeAPI/pull/42) in [NicFranc99/SmartHomeAPI](https://github.com/NicFranc99/SmartHomeAPI)
+2. 🗣 Commented on [#15](https://github.com/NicFranc99/DevOpsDashboard/issues/15) in [NicFranc99/DevOpsDashboard](https://github.com/NicFranc99/DevOpsDashboard)
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+<img align="left" alt="NicFranc99's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NicFranc99&show_icons=true&hide_border=true&count_private=true" />
+
+</details>
